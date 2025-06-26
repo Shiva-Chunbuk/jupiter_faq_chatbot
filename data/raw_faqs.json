@@ -1,0 +1,122 @@
+[
+  {
+    "question": "How do I make a payment using Jupiter?",
+    "answer": "You can make payments using Jupiter by opening the app, selecting the payment option, entering the recipient details, and confirming the transaction with your PIN or biometric authentication.",
+    "category": "Payments"
+  },
+  {
+    "question": "What are the different ways to send money through Jupiter?",
+    "answer": "Jupiter offers multiple payment methods: UPI transfers, NEFT, IMPS, and bill payments. You can send money using mobile number, UPI ID, account number, or by scanning QR codes.",
+    "category": "Payments"
+  },
+  {
+    "question": "How do I pay bills using Jupiter?",
+    "answer": "To pay bills, go to the Bills section in the Jupiter app, select the biller (electricity, mobile, DTH, etc.), enter your account details, and make the payment. You can also set up auto-pay for recurring bills.",
+    "category": "Payments"
+  },
+  {
+    "question": "Can I schedule payments for later?",
+    "answer": "Yes, Jupiter allows you to schedule payments for future dates. Select the payment option, choose \"Schedule Payment\", set the date and time, and the payment will be processed automatically.",
+    "category": "Payments"
+  },
+  {
+    "question": "What documents are required for KYC verification?",
+    "answer": "For KYC verification, you need to provide a valid government-issued photo ID (Aadhaar, PAN, Passport, or Driving License) and address proof. The verification process is completed digitally through the app.",
+    "category": "KYC"
+  },
+  {
+    "question": "How long does KYC verification take?",
+    "answer": "KYC verification typically takes 24-48 hours. You will receive a notification once your documents are verified. In some cases, it may take up to 7 working days.",
+    "category": "KYC"
+  },
+  {
+    "question": "What happens if my KYC is rejected?",
+    "answer": "If your KYC is rejected, you will receive a notification with the reason. You can re-submit your documents with the correct information. Common reasons include blurry images or mismatched details.",
+    "category": "KYC"
+  },
+  {
+    "question": "Can I use Jupiter without completing KYC?",
+    "answer": "You can use basic features with minimal KYC, but full KYC is required for higher transaction limits, debit card, and all banking features. Complete KYC to unlock all Jupiter benefits.",
+    "category": "KYC"
+  },
+  {
+    "question": "How do Jupiter rewards work?",
+    "answer": "Jupiter rewards are earned on transactions and can be redeemed for various benefits. You earn points on UPI transactions, bill payments, and other activities. Points can be redeemed for cashback or exclusive offers.",
+    "category": "Rewards"
+  },
+  {
+    "question": "How do I earn Jupiter reward points?",
+    "answer": "You earn reward points on UPI transactions, bill payments, online shopping, and by completing challenges in the app. Different activities have different point values.",
+    "category": "Rewards"
+  },
+  {
+    "question": "How can I redeem my reward points?",
+    "answer": "Go to the Rewards section in the app to redeem points for cashback, shopping vouchers, or exclusive offers from partner brands. Points can also be used for bill payments.",
+    "category": "Rewards"
+  },
+  {
+    "question": "Do Jupiter reward points expire?",
+    "answer": "Jupiter reward points are valid for 12 months from the date of earning. Points that are about to expire will be highlighted in the app with reminders to redeem them.",
+    "category": "Rewards"
+  },
+  {
+    "question": "How do I activate my Jupiter debit card?",
+    "answer": "To activate your Jupiter debit card, open the Jupiter app, go to the Cards section, select your card, and follow the activation process. You may need to set a PIN and verify your identity.",
+    "category": "Cards"
+  },
+  {
+    "question": "What are the charges for Jupiter debit card?",
+    "answer": "Jupiter debit card has no annual fees. ATM withdrawals are free up to 5 times per month at any ATM. International transactions may have nominal charges as per RBI guidelines.",
+    "category": "Cards"
+  },
+  {
+    "question": "Can I use Jupiter debit card internationally?",
+    "answer": "Yes, Jupiter debit card can be used internationally for online and offline transactions. You need to enable international usage in the app and inform about your travel plans.",
+    "category": "Cards"
+  },
+  {
+    "question": "What should I do if my debit card is lost or stolen?",
+    "answer": "Immediately block your card through the Jupiter app or call customer support. You can order a replacement card from the app, which will be delivered within 3-5 working days.",
+    "category": "Cards"
+  },
+  {
+    "question": "What are the transaction limits on Jupiter?",
+    "answer": "Transaction limits vary based on your account type and KYC status. Generally, UPI transactions have a limit of ₹1 lakh per day, while NEFT/IMPS limits may be higher for fully KYC-verified accounts.",
+    "category": "Limits"
+  },
+  {
+    "question": "How can I increase my transaction limits?",
+    "answer": "Complete your full KYC verification to get higher transaction limits. You can also request limit increases through the app or by contacting customer support with proper documentation.",
+    "category": "Limits"
+  },
+  {
+    "question": "What is the ATM withdrawal limit?",
+    "answer": "ATM withdrawal limit is ₹25,000 per day and ₹1 lakh per month. These limits may vary based on your account type and can be customized through the app settings.",
+    "category": "Limits"
+  },
+  {
+    "question": "Are there any limits on bill payments?",
+    "answer": "Bill payment limits are generally ₹50,000 per transaction and ₹2 lakh per day. Some specific billers may have different limits as set by the service providers.",
+    "category": "Limits"
+  },
+  {
+    "question": "How do I contact Jupiter customer support?",
+    "answer": "You can contact Jupiter support through the in-app chat, email at support@jupiter.money, or call the customer care number. Support is available 24/7 for urgent issues.",
+    "category": "General"
+  },
+  {
+    "question": "Is Jupiter safe and secure?",
+    "answer": "Yes, Jupiter uses bank-grade security with 256-bit encryption, two-factor authentication, and is regulated by RBI. Your money is safe and insured up to ₹5 lakh by DICGC.",
+    "category": "General"
+  },
+  {
+    "question": "How do I update my personal information?",
+    "answer": "Go to Profile settings in the Jupiter app to update your personal information like address, phone number, or email. Some changes may require document verification.",
+    "category": "General"
+  },
+  {
+    "question": "Can I have multiple Jupiter accounts?",
+    "answer": "Each person can have only one Jupiter account linked to their mobile number and PAN. However, you can have multiple savings goals and virtual accounts within your main account.",
+    "category": "General"
+  }
+]
