@@ -1,0 +1,15 @@
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+openai
+faiss-cpu
+chromadb
+streamlit
+pandas
+numpy
+python-dotenv
+jupyter
+scikit-learn
+nltk
+sentence-transformers
